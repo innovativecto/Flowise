@@ -85,4 +85,9 @@
         "sass": "^1.42.1",
         "typescript": "^4.8.4"
     }
+    "overrides": {
+      "flowise-react-json-view": {
+      "react": "^18.2.0"
+  }
+}
 }
